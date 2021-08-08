@@ -19,7 +19,7 @@ On a browser, one may search the images with Photo ID by: https://www.flickr.com
 
 Example: https://www.flickr.com/photo.gne?id=12990166725
 
-Note that not all images may be available at the moment. I will try to take a snapshot of the dataset soon, after checking up with the license status for the images.
+**Update**: I have added an example [crawler](crawler.py). There seem to be some missing photos on Flickr. It is also unclear which resolution the original PIPA dataset has been made up of (see https://www.flickr.com/services/api/flickr.photos.getSizes.html for different sizes available for each photo).
 
 ### Structure of the dataset
 
